@@ -5,3 +5,5 @@ dsasdd
 dsadasd
 
 dasdasddsa
+
+Новое из ветки feature3
