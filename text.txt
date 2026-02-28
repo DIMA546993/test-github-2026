@@ -7,3 +7,4 @@ dsadasd
 dasdasddsa
 
 Новое из ветки feature3
+Сделать футер
